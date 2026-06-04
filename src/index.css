@@ -1,0 +1,16 @@
+@import "tailwindcss";
+ 
+@keyframes soft-glow {
+  0%, 100% {
+    color: #f7d9de; /* Soft Pink */
+    text-shadow: 0 0 5px rgba(247, 217, 222, 0.5);
+  }
+  50% {
+    color: #ba0b27; /* Deep Red */
+    text-shadow: 0 0 15px rgba(186, 11, 39, 0.6);
+  }
+}
+
+.animate-soft-glow {
+  animation: soft-glow 4s ease-in-out infinite;
+}
