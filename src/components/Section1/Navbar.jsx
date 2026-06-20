@@ -1,7 +1,7 @@
 import { TiHeart } from "react-icons/ti";
 const Navbar = () => {
   return (
-    <div className="flex items-center justify-between py-3 px-4 sm:px-8 md:px-18 bg-blue-900">
+    <div className="flex items-center justify-between py-3 px-4 sm:px-8 md:px-18 bg-gray-900">
         <h4 className="bg-gray-800 text-xs sm:text-s font-bold text-white px-3 sm:px-6 py-2 rounded-full">
             Target Audience
         </h4>
