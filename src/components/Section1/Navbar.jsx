@@ -9,7 +9,7 @@ const Navbar = () => {
             <TiHeart />
         </div>
         <button className="bg-gray-300 tracking-wider font-medium font-serif text-black text-xs px-3 sm:px-6 py-2 rounded-full hover:bg-red-300 transition">
-            Digital Banking Platform
+        Skill Based Platform
         </button>
     </div>
   )
