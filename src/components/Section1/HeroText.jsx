@@ -7,12 +7,12 @@ const HeroText = () => {
       {/* Artistic Heading with Floating Heart */}
       <div className="relative z-10">
         <h3 className="text-4xl sm:text-5xl md:text-7xl font-serif leading-[0.9] tracking-tight text-gray-800">
-          Knowledge <br />
+          I <br />
           <span className="ml-6 sm:ml-12 bg-[linear-gradient(to_right,#ff6b6b,#c44569,#f8b500)] bg-clip-text text-transparent italic">
-            Elegance
+            Love You 
           </span>
           <br />
-          <span className="text-2xl sm:text-4xl md:text-5xl text-gray-600 font-light">& Curiosity</span>
+          <span className="text-2xl sm:text-4xl md:text-5xl text-gray-600 font-light">Sanya❤️</span>
         </h3>
         
         {/* Floating decorative heart */}
